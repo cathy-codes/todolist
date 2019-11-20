@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\services",
+    "\\src\\app\\todo-item"
+  ],
+  "SelectedNode": "\\src\\app\\todo-item\\todo-item.component.css",
+  "PreviewInSolutionExplorer": false
+}
