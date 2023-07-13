@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4, and was a tutorial during an ngGirls session. More details can be seen [here](https://ng-girls.gitbook.io/todo-list-tutorial/workshop-todo-list/workshop-todo-list).
 
 ## Development server
 
